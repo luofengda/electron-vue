@@ -1,2 +1,2 @@
 # electron-vue
-测试例子
+搭建electron-vue的例子，UI库：iview
